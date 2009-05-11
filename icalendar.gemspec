@@ -38,7 +38,7 @@ Gem::Specification.new do |s|
                  "docs/rfcs/rfc2446.pdf", "docs/rfcs/rfc2426.pdf",
                  "docs/rfcs/itip_notes.txt", "docs/rfcs/rfc2447.pdf",
                  "docs/rfcs/rfc2425.pdf", "docs/rfcs/rfc2445.pdf",
-                 "docs/rfcs/rfc3283.txt", "docs/api", "docs/api/STUB",
+                 "docs/rfcs/rfc3283.txt",
                  "examples/single_event.ics", "examples/parse_cal.rb",
                  "examples/create_cal.rb"]
     
